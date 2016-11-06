@@ -44,7 +44,7 @@
  - [reactabular](https://github.com/reactabular/reactabular) - Spectacular tables for React.
  - [fixed-data-table](https://github.com/facebook/fixed-data-table) - A React table component designed to allow presenting thousands of rows of data.
  - [sematable](https://github.com/sematext/sematable) - Client side sorting, pagination, and text filter for redux/react based apps.
-
+ - [violet-paginator](https://github.com/sslotsky/violet-paginator) - Paginate, sort, filter, update, and remove data from the server. A complete list management library for react/redux applications.
 
 ###### Infinite Scroll
 
